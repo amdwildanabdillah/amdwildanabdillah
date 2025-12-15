@@ -7,25 +7,23 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=I+Code+Cool+Stuff;UI%2FUX+Design+Lover;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Front-End+Developer;UI%2FUX+Design+Lover;Always+Learning" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
 <p align="center"> 
-  Selamat datang di profil GitHub saya! Di sini saya menyimpan berbagai project coding dan eksperimen teknologi saya.
+  Selamat datang di profil GitHub saya! Di sini saya menyimpan berbagai project coding dan eksperimen desain saya.
 </p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
@@ -40,10 +38,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amdwildanabdillah&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
-</div>
 
 ---
 
