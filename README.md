@@ -53,7 +53,7 @@
   <a href="https://instagram.com/idan_abdll">
     <img src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU">
+  <a href="https://linkedin.com/in/ahmadwildanabdillah-vixel">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </div>
