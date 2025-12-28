@@ -11,24 +11,22 @@
     <td width="55%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <p>
-        Selamat datang! Saya fokus pada pengembangan web yang interaktif dan desain antarmuka yang modern. 
+        Selamat datang! Saya fokus pada pengembangan web yang interaktif dan desain antarmuka yang modern.
       </p>
       <p>
         🌱 <b>Currently learning:</b> Advanced Vue.js & System Design<br>
         🎯 <b>Goals:</b> Building scalable web apps<br>
         💬 <b>Ask me about:</b> Front-end Dev, UI/UX
       </p>
-        
       <h3>🛠️ Tech Stack</h3>
-      <p>
+      <marquee behavior="scroll" direction="left" scrollamount="3">
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <br/>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-      </p>
+      </marquee>
     </td>
     <td width="45%" valign="top">
       <div align="center">
@@ -50,3 +48,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
