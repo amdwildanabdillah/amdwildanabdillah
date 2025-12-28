@@ -32,9 +32,9 @@
 
 ### 📊 My GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amdwildanabdillah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=amdwildanabdillah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdwildanabdillah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amdwildanabdillah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" width="48%" />
 </div>
 
 <br/>
@@ -43,6 +43,6 @@
 
 ### 📫 Let's Connect
 <p align="center">
-  <a href="https://instagram.com/USERNAME_IG_KAMU"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/idan_abdll"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
