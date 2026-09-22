@@ -1,9 +1,9 @@
 # Ahmad Wildan Abdillah
 
-Founder & Lead Developer at **[Vixel Creative](https://vixelcreative.my.id)**.  
+Founder & Lead Developer at **[Vixel Creative](https://vixelcreative.my.id/)**.  
 Crafting modern, scalable web applications and clean digital interfaces.
 
-[Portfolio](https://portfoliowildan.my.id) · [LinkedIn](https://linkedin.com/in/ahmadwildanabdillah-vixel) · [Email](mailto:contact@vixelcreative.my.id)
+[Portfolio](https://portfoliowildan.my.id/) · [LinkedIn](https://linkedin.com/in/ahmadwildanabdillah-vixel) · [Email](mailto:contact@vixelcreative.my.id)
 
 ---
 
@@ -22,8 +22,7 @@ Crafting modern, scalable web applications and clean digital interfaces.
 
 ### ✦ Activity & Metrics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amdwildanabdillah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amdwildanabdillah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
+  <img src="https://streak-stats.demolab.com?user=amdwildanabdillah&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="150" />
 </p>
 
 ---
