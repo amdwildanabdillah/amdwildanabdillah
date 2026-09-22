@@ -1,28 +1,62 @@
 # Ahmad Wildan Abdillah
 
-Founder & Lead Developer at **[Vixel Creative](https://vixelcreative.my.id/)**.  
-Crafting modern, scalable web applications and clean digital interfaces.
-
-[Portfolio](https://portfoliowildan.my.id/) · [LinkedIn](https://linkedin.com/in/ahmadwildanabdillah-vixel) · [Email](mailto:contact@vixelcreative.my.id)
+Founder & Lead Developer at **[Vixel Creative](https://vixelcreative.my.id) ↗**  
+Crafting high-performance web applications, scalable digital systems, and clean interfaces.
 
 ---
 
-### ✦ Current Work
-- 🐾 **Puskeswan** — Streamlining public animal healthcare reporting and database management systems.
-- 🎬 **Shotflow** — Photography & video production workflow system for creative studios.
+### ✦ Selected Works
+
+- **Puskeswan** — Public animal healthcare reporting & management platform *(Internal System)*.
+- **[Shotflow](https://shotflow.vixelcreative.my.id) ↗** — Photography & video production workflow system for creative studios.
 
 ---
 
 ### ✦ Tech Stack
-- **Frontend & Mobile:** Vue.js, Nuxt, React, Next.js, Tailwind CSS, Flutter, Dart
-- **Backend & Database:** Supabase, PostgreSQL, AppSheet, RESTful APIs
-- **DevOps & Tools:** Git, GitHub Actions, Vercel, Vite, Figma
+
+**Frontend & Mobile**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,tailwind,vite,flutter,dart" alt="Frontend & Mobile Stack" />
+</p>
+
+**Backend & Database**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,postgres" alt="Backend & Database Stack" />
+</p>
+
+**Workflow & Tools**  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,figma" alt="Workflow & Tools" />
+</p>
 
 ---
 
 ### ✦ Activity & Metrics
+
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=amdwildanabdillah&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="150" />
+  <img src="https://streak-stats.demolab.com?user=amdwildanabdillah&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="160" />
+</p>
+
+---
+
+### ✦ Connect
+
+<p align="left">
+  <a href="https://portfoliowildan.my.id" target="_blank">
+    <img src="./lp.png" alt="Portfolio" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://vixelcreative.my.id" target="_blank">
+    <img src="./vixel.png" alt="Vixel Creative" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ahmadwildanabdillah-vixel" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
+  </a>
+  &nbsp;
+  <a href="mailto:contact@vixelcreative.my.id">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" />
+  </a>
 </p>
 
 ---
