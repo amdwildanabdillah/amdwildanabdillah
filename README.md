@@ -1,6 +1,6 @@
 # Ahmad Wildan Abdillah
 
-Founder & Lead Developer at **[Vixel Creative](https://vixelcreative.my.id) ↗**  
+Founder & Lead Developer at **[Vixel Creative](https://vixelcreative.codes) ↗**  
 Crafting high-performance web applications, scalable digital systems, and clean interfaces.
 
 ---
@@ -42,11 +42,11 @@ Crafting high-performance web applications, scalable digital systems, and clean 
 ### ✦ Connect
 
 <p align="left">
-  <a href="https://portfoliowildan.my.id" target="_blank">
+  <a href="https://idanabdll.me" target="_blank">
     <img src="./lp.png" alt="Portfolio" width="40" height="40" />
   </a>
   &nbsp;
-  <a href="https://vixelcreative.my.id" target="_blank">
+  <a href="https://vixelcreative.codes" target="_blank">
     <img src="./vixel.png" alt="Vixel Creative" width="40" height="40" />
   </a>
   &nbsp;
@@ -54,7 +54,7 @@ Crafting high-performance web applications, scalable digital systems, and clean 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40" />
   </a>
   &nbsp;
-  <a href="mailto:contact@vixelcreative.my.id">
+  <a href="mailto:hello@vixelcreative.codes">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="40" height="40" />
   </a>
 </p>
